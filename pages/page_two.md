@@ -14,6 +14,8 @@ It’s Freeee!!! Is it really? Behind every software, exists costs such as: hard
 
 So, before choosing an open source software please be aware of these pros and cons. 
 
+
+
 ### Another headline
 
 1. Numbered lists work too
