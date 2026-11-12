@@ -9,6 +9,8 @@ Open source software, presents it self as a form of attainable digital equality,
 
 
 
+### References
+
 - LibreOffice (n.d), ‘Who are we?’. Available at: https://www.libreoffice.org/who-are-we/ (Accessed: 09 November 2026)
   
 - Open Source Initiative (2017). ‘Ensuring Openness Through and In Open Source Licensing’. Available at: https://opensource.org/blog/ensuring-openness-through-and-in-open-source-licensing (Accessed: 09 November 2026)
@@ -20,7 +22,7 @@ Open source software, presents it self as a form of attainable digital equality,
 
 
 
-### A smaller headline
+
 
 You can also add images from the assets folder:
 

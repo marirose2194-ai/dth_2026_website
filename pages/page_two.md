@@ -10,7 +10,7 @@ One common problem is compatibility, I will use LibreOffice as an example for th
 
 Security, the big word of our times! Is also one of the big disadvantages of open source software, since its code is public, it also is open to potential threats, and since not every project gets the same attention by develops and enthusiasts, some can be hacked (Sentinel One, 2025). 
 
-It’s Freeee!!! Is it really? Behind every software, exists costs such as: hardware, installation, training, importing data, support and maintenance, are just some examples of actions that can or will require extra costs from you or your company (NiBussinessInfo, n.d)
+It’s Freeee!!! Is it really? Behind every software, exists costs such as: hardware, installation, training, importing data, support and maintenance, are just some examples of actions that can or will require extra costs from you or your company (NiBussinessInfo, n.d).
 
 So, before choosing an open source software please be aware of these pros and cons. 
 
