@@ -4,11 +4,8 @@
 
 
 
-- one item
-- another item
-
 ### References
 
-You can also add images from the assets folder:
+
 
 ![The beach at Skagen](./assets/images/skagen.jpg)

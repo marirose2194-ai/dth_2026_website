@@ -22,8 +22,4 @@ Open source software, presents it self as a form of attainable digital equality,
 
 
 
-
-
-You can also add images from the assets folder:
-
 ![The beach at Skagen](./assets/images/skagen.jpg)
