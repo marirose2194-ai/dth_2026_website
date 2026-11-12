@@ -8,7 +8,7 @@ Yes, open source codes are available to the public, and can be edited within its
 
 One common problem is compatibility, I will use LibreOffice as an example for this one. Since, LibreOffice package is a software similar to Microsoft Office it would be a no brainier for files from both software to work, they do in practice, but not without a couple of dissonances, such as images transference from one model to the other, fonts and formatting. And since, most students use the Microsoft Office package, that allows for live collaboration, what is useful for group work, with LibreOffice that is no possible, unfortunately (The Document Foundation Wiki, 2026).
 
-Security, the big word of our times! Is also one of the big disadvantages of open source software, since its code is public, it also is open to potential threats, and since not every project gets the same attention by develops and enthusiasts, some can be hacked (Sentinel One, 2025). 
+Security, the big word of our times! Is also one of the big disadvantages of open source software, since its code is public, it also is open to potential threats, and since not every project gets the same attention by developers and enthusiasts, some can be hacked (Sentinel One, 2025). 
 
 It’s Freeee!!! Is it really? Behind every software, exists costs such as: hardware, installation, training, importing data, support and maintenance, are just some examples of actions that can or will require extra costs from you or your company (NiBussinessInfo, n.d).
 
