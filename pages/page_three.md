@@ -22,6 +22,7 @@ The digital archive as open source is a perfect tool!
 
 5. Funding: Self-funding and Grants (Invest in Open Infrastructure, 2024) (European Commission, 2024)
 
+I wouldn’t use it for my thesis, but not because this particular open source software is not useful, since my master thesis is about food heritage and oral history, would be a great addiction to it. However, like every software that exists, there is a learning curve to it.
 
 ### References
 
