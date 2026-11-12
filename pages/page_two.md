@@ -13,6 +13,7 @@ Security, the big word of our times! Is also one of the big disadvantages of ope
 It’s Freeee!!! Is it really? Behind every software, exists costs such as: hardware, installation, training, importing data, support and maintenance, are just some examples of actions that can or will require extra costs from you or your company (NiBussinessInfo, n.d)
 
 So, before choosing an open source software please be aware of these pros and cons. 
+
 ### Another headline
 
 1. Numbered lists work too
