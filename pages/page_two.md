@@ -16,12 +16,12 @@ So, before choosing an open source software please be aware of these pros and co
 
 
 
+### References
+
 - NiBussinessnfo (n.d) ‘Open source business software – Disadvantages of open source software’. Available at: https://www.nibusinessinfo.co.uk/content/disadvantages-open-source-software (Accessed: 9 November 2026)
 
 - The Document Foundation Wiki (2026) ‘Feature Comparison: LibreOffice – Microsoft Office’. Available at: https://wiki.documentfoundation.org/Feature_Comparison:LibreOffice-_Microsoft_Office (Accessed: 9 November 2026)
 
 - Sentinel One (2025). ‘13 Open Source Software Security Risks’. Available at: https://www.sentinelone.com/cybersecurity-101/cybersecurity/open-source-software-security-risks/ (Accessed: 9 November 2026)
-
-
 
 
