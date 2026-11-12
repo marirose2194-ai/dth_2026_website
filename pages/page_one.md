@@ -10,8 +10,11 @@ Open source software, presents it self as a form of attainable digital equality,
 
 
 - LibreOffice (n.d), ‘Who are we?’. Available at: https://www.libreoffice.org/who-are-we/ (Accessed: 09 November 2026)
+  
 - Open Source Initiative (2017). ‘Ensuring Openness Through and In Open Source Licensing’. Available at: https://opensource.org/blog/ensuring-openness-through-and-in-open-source-licensing (Accessed: 09 November 2026)
+  
 - The Linux Foundation (2025). ‘Navigating Global Regulations and Open Source: US OFAC Sanctions’. Available at:https://www.linuxfoundation.org/blog/navigating-global-regulations-and-open-source-us-ofac-sanctions (Accessed: 09 November 2026)
+  
 - Wilkins, J. (2021), ‘What is Open Source Software? OSS Explained in Plain English’. Available at: https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/
 (Accessed: 09 November 2026) 
 
