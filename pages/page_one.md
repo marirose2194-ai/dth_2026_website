@@ -1,6 +1,6 @@
 # Page one
 
-## What are the advantages of open source software? This is a change test
+## What are the advantages of open source software?
 
 As the name says, open source, can be accessed by anyone and anywhere if you have access to the internet connection without country imposed restrictions and legislation (The Linux Foundation, 2025). Open source software can offer much more that just a low cost access, but also present a more transparent option, that allows its users to analyse, modify and share source code, and motivating them to collaborate to it.
 One good example is the software, LibreOffice, that I personally use and where I’m writing this text! As a student, the use of this software is based on personal choice, since I was not a student for five years, I didn’t have access to the Microsoft package, that can be accessed freely when you are a student or I would have to pay to have access, but I still needed a software with similar function and that was familiar in terms of interface and LibreOffice was the most plausible option for me. Also that accessibility to open source software can be great option for independent researches that want to use certain software that is not hidden behind paywalls (LibreOffice, n.d).
